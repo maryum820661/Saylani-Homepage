@@ -647,8 +647,8 @@ background-color: #316DC3;
 	position:absolute;
 	margin-top:28px;
 	margin-left:-80px;
-    text-align: left;
-    z-index:-1;
+        text-align: left;
+        z-index:-1;
    
 }
 .submenu >li
@@ -693,8 +693,8 @@ background-color: #316DC3;
 .submenu1
 {
     display: none;
-	width: 200px;
-	list-style-type: none;
+    width: 200px;
+    list-style-type: none;
     position:absolute;
     left:160px;
     text-align: left;
@@ -705,8 +705,8 @@ background-color: #316DC3;
 	content: '';
 	width: 0px;
 	height: 0px;
-    right:auto;
-    display: none;
+        right:auto;
+        display: none;
 }
 
 .submenu li:hover .submenu1
@@ -733,8 +733,8 @@ background-color: #316DC3;
 .submenu2
 {
     display: none;
-	width: 230px;
-	list-style-type: none;
+    width: 230px;
+    list-style-type: none;
     position:absolute;
     left:180px;
     text-align: left;
@@ -742,9 +742,9 @@ background-color: #316DC3;
 }
 .submenu2:before
 {
-	content: '';
-	width: 0px;
-	height: 0px;
+    content: '';
+    width: 0px;
+    height: 0px;
     right:auto;
     display: none;
 }
@@ -756,7 +756,7 @@ background-color: #316DC3;
 .submenu2 >li
 {
 	padding: 10px;
-    background-color:white;
+        background-color:white;
 	font-size: 15px;
 	text-align: left; 
 	box-shadow: 1px,1px,1px #316DC3;
